@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mrcbq
 - 👀 I’m interested in ML, Python, Maths.
 - 🌱 I’m currently learning Python, JS, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: marcobaquero@gmail.com
 
 <!---
 mrcbq/mrcbq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
