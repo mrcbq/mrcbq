@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrcbq
-- 👀 I’m interested in ML, Python, Maths.
-- 🌱 I’m currently learning Python, JS, HTML and CSS
+- 👀 I’m interested in Dev, JS ML, Python, Maths.
+- 🌱 I’m currently learning a lot of stuffs, Python, JS, HTML, CSS, React, Vite, Node, Express, TypeScript, Django, Docker, Git
 - 📫 How to reach me: marcobaquero@gmail.com
 
 <!---
