@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco Baquero @mrcbq
 - Located in 🇨🇴 CO
 - 👀 I’m interested in Dev, JS, Web 3, ML, Python, Maths.
-- 🌱 I’m currently learning a lot of stuffs, JS, React, Ruby, Ruby on Rails.
+- 🌱 I’m currently learning a lot of stuffs.
 - 📬 Email me: marcobaquero@gmail.com
 
 <!---
